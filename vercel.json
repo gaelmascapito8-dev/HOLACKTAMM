@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://s3.us-east-2.amazonaws.com/sillydonut83/index.html",
+      "permanent": false
+    }
+  ]
+}
